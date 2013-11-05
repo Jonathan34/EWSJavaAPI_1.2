@@ -47,7 +47,7 @@
 	  		     <property name="version.num" value="1.2"/>
 	  		     <buildnumber file="build.num"/>  		     
 	  		    
-	  	    <jar jarfile="${basedir}/lib/EWSJavaAPI_${version.num}.${build.number}.jar" basedir="${build}"/>
+	  	    <jar jarfile="${build}/EWSJavaAPI_${version.num}.${build.number}.jar" basedir="${build}"/>
 	  		
 	  		  		<manifest file="MANIFEST.MF">     
 	  		  			<attribute name="Main-Class" value="Main.MainClass" />   
@@ -56,7 +56,7 @@
 	  		  		</manifest> 
 	  		  
 	  		      <jar destfile="EWSJavaAPIWithJars_${version.num}.${build.number}.jar" manifest="MANIFEST.MF" >
-	  		           <zipgroupfileset dir="lib" includes="commons-codec-1.4.jar,commons-httpclient-3.1.jar,commons-logging-1.1.1.jar,jcifs-1.3.17.jar,EWSJavaAPI_${version.num}.${build.number}.jar" />  
+	  		           <zipgroupfileset dir="libs" includes="commons-codec-1.4.jar,commons-httpclient-3.1.jar,commons-logging-1.1.1.jar,jcifs-1.3.17.jar,../${build}/EWSJavaAPI_${version.num}.${build.number}.jar" />
 	  		          
 	  		           </jar>
 	  		  </target>

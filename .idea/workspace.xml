@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80aa0dc8-09ad-4961-925c-9fb334c387d3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EWSJavaAPI_1.2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_jsr173_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jcifs_jcifs_1_3_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jsr.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jsr__2_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\lib\commons-codec-1.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\lib\commons-httpclient-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\lib\commons-logging-1.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\lib\jcifs-1.3.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AbsoluteDateTransition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AbsoluteDayOfMonthTransition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AbsoluteMonthTransition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AbstractAsyncCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AbstractFolderIdWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AbstractItemIdWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AcceptMeetingInvitationMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AccountIsLockedException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AddDelegateRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AffectedTaskOccurrence.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AggregateType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AlternateId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AlternateIdBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AlternateMailbox.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AlternateMailboxCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AlternatePublicFolderId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AlternatePublicFolderItemId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ApplyConversationActionRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Appointment.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AppointmentOccurrenceId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AppointmentSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AppointmentType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ArgumentException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ArgumentNullException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ArgumentOutOfRangeException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AsyncCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AsyncCallbackImplementation.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AsyncExecutor.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AsyncRequestResult.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Attachable.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Attachment.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AttachmentCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AttachmentsPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Attendee.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AttendeeAvailability.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AttendeeCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AttendeeInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverDnsClient.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverEndpoints.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverError.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverErrorCode.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverLocalException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverRemoteException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverResponseCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverResponseException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverResponseType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AutodiscoverService.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AvailabilityData.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\AvailabilityOptions.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Base64.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Base64EncoderStream.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\BasePropertySet.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\BodyType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\BoolPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ByteArrayArray.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ByteArrayOSRequestEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ByteArrayPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CalendarActionResults.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CalendarEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CalendarEventDetails.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CalendarFolder.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CalendarResponseMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CalendarResponseMessageBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CalendarResponseObjectSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CalendarView.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CallableMethod.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CallableSingleTon.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Callback.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CancelMeetingMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CancelMeetingMessageSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Change.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ChangeCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ChangeType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ClientCertificateCredentials.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ComparisonHelpers.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ComparisonMode.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CompleteName.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ComplexFunctionDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ComplexProperty.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ComplexPropertyCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ComplexPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ComplexPropertyDefinitionBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConfigurationSettingsBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Conflict.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConflictResolutionMode.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConflictType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConnectingIdType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConnectionFailureCause.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Contact.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ContactGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ContactGroupSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ContactSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ContactSource.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ContactsFolder.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ContainedPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ContainmentMode.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Conversation.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConversationAction.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConversationActionType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConversationFlagStatus.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConversationId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConversationIndexedItemView.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConversationSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Convert.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConvertIdRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ConvertIdResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CopyFolderRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CopyItemRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateAttachmentException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateAttachmentRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateAttachmentResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateFolderRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateFolderResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateItemRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateItemRequestBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateItemResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateItemResponseBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateResponseObjectRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateResponseObjectResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateRuleOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CreateUserConfigurationRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\CredentialConstants.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DateTimePrecision.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DateTimePropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DayOfTheWeek.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DayOfTheWeekCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DayOfTheWeekIndex.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeclineMeetingInvitationMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DefaultExtendedPropertySet.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DelegateFolderPermissionLevel.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DelegateInformation.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DelegateManagementRequestBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DelegateManagementResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DelegatePermissions.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DelegateUser.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DelegateUserResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeleteAttachmentException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeleteAttachmentRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeleteAttachmentResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeleteFolderRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeleteItemRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeleteMode.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeleteRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeleteRuleOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeleteUserConfigurationRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeletedOccurrenceInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DeletedOccurrenceInfoCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DictionaryEntryProperty.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DictionaryProperty.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DisconnectPhoneCallRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DnsClient.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DnsException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DnsRecord.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DnsRecordType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DnsSrvRecord.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DomainSettingError.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DomainSettingName.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\DoublePropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EWSConstants.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EWSHttpException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EditorBrowsable.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EditorBrowsableState.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EffectiveRights.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EffectiveRightsPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EmailAddress.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EmailAddressCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EmailAddressDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EmailAddressEntry.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EmailAddressKey.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EmailMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EmailMessageSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EmptyFolderRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EndDateRecurrenceRange.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EventType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EwsEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EwsJCIFSNTLMScheme.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EwsSSLProtocolSocketFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EwsServiceMultiResponseXmlReader.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EwsServiceXmlReader.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EwsServiceXmlWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EwsTraceListener.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EwsUtilities.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EwsX509TrustManager.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\EwsXmlReader.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExchangeCredentials.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExchangeServerInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExchangeService.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExchangeServiceBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExchangeVersion.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExecuteDiagnosticMethodRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExecuteDiagnosticMethodResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExpandGroupRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExpandGroupResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExpandGroupResults.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExtendedProperty.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExtendedPropertyCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ExtendedPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FileAsMapping.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FileAttachment.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FindConversationRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FindConversationResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FindFolderRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FindFolderResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FindFoldersResults.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FindItemRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FindItemResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FindItemsResults.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FindRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FlaggedForAction.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Flags.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Folder.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderChange.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderIdCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderIdWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderIdWrapperList.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderPermission.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderPermissionCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderPermissionLevel.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderPermissionReadAccess.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderTraversal.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderView.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FolderWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FormatException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\FreeBusyViewType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GenericItemAttachment.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GenericPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetAttachmentRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetAttachmentResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetDelegateRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetDelegateResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetDomainSettingsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetDomainSettingsResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetDomainSettingsResponseCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetEventsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetEventsResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetEventsResults.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetFolderRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetFolderRequestBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetFolderRequestForLoad.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetFolderResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetInboxRulesRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetInboxRulesResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetItemRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetItemRequestBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetItemRequestForLoad.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetItemResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetPasswordExpirationDateRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetPasswordExpirationDateResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetPhoneCallRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetPhoneCallResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetRoomListsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetRoomListsResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetRoomsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetRoomsResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetServerTimeZonesRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetServerTimeZonesResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetStream.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetStreamingEventsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetStreamingEventsResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetStreamingEventsResults.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetUserAvailabilityRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetUserAvailabilityResults.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetUserConfigurationRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetUserConfigurationResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetUserOofSettingsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetUserOofSettingsResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetUserSettingsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetUserSettingsResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GetUserSettingsResponseCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GroupMember.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GroupMemberCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GroupMemberPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\GroupedFindItemsResults.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Grouping.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\HangingServiceRequestBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\HangingTraceStream.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\HttpClientWebRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\HttpErrorException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\HttpProxyCredentials.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\HttpWebRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IAction.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IAsyncResult.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IAutodiscoverRedirectionUrl.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ICalendarActionProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IComplexPropertyChanged.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IComplexPropertyChangedDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ICreateComplexPropertyDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ICreateServiceObjectWithAttachmentParam.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ICreateServiceObjectWithServiceParam.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ICustomXmlSerialization.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ICustomXmlUpdateSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IDateTimePropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IDisposable.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IFileAttachmentContentHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IFunc.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IFuncDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IFunction.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IFunctionDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IGetObjectInstanceDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IGetPropertyDefinitionCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ILazyMember.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IOwnedProperty.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IPredicate.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IPropertyBagChangedDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ISearchStringProvider.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ISelfValidate.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IServiceObjectChangedDelegate.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ITraceListener.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IdFormat.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ImAddressDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ImAddressEntry.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ImAddressKey.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ImpersonatedUserId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Importance.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IndexedPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\IntPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\InternetMessageHeader.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\InternetMessageHeaderCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\InvalidOperationException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Item.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemAttachment.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemChange.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemIdCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemIdWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemIdWrapperList.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemTraversal.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemView.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ItemWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\LazyMember.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\LegacyAvailabilityTimeZone.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\LegacyAvailabilityTimeZoneTime.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\LegacyFreeBusyStatus.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\LogicalOperator.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Mailbox.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MailboxType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ManagedFolderInformation.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MapiPropertyType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MapiTypeConverter.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MapiTypeConverterMap.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MapiTypeConverterMapEntry.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingAttendeeType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingCancellation.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingMessageSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingRequestSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingRequestType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingRequestsDeliveryScope.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingResponseType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingTimeZone.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MeetingTimeZonePropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MemberStatus.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MessageBody.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MessageDisposition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MimeContent.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MobilePhone.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Month.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MoveCopyFolderRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MoveCopyFolderResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MoveCopyItemRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MoveCopyItemResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MoveCopyRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MoveFolderRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MoveItemRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\MultiResponseServiceRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\NameResolution.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\NameResolutionCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\NoEndRecurrenceRange.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\NotSupportedException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\NotificationEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\NotificationEventArgs.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\NumberedRecurrenceRange.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OccurrenceInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OccurrenceInfoCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OffsetBasePoint.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OofExternalAudience.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OofReply.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OofSettings.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OofState.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OrderByCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OutParam.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OutlookAccount.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OutlookConfigurationSettings.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OutlookProtocol.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OutlookProtocolType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\OutlookUser.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PagedView.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Param.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PermissionCollectionPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PermissionScope.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PhoneCall.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PhoneCallId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PhoneCallState.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PhoneNumberDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PhoneNumberEntry.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PhoneNumberKey.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PhysicalAddressDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PhysicalAddressEntry.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PhysicalAddressIndex.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PhysicalAddressKey.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PlayOnPhoneRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PlayOnPhoneResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PostItem.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PostItemSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PostReply.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PostReplySchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PropertyBag.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PropertyDefinitionBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PropertyDefinitionFlags.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PropertyException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PropertySet.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ProtocolConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ProtocolConnectionCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PullSubscription.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\PushSubscription.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Recurrence.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RecurrencePropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RecurrenceRange.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RecurringAppointmentMasterId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RefParam.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RelativeDayOfMonthTransition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RemoveDelegateRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RemoveFromCalendar.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RequiredServerVersion.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ResolveNameSearchLocation.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ResolveNamesRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ResolveNamesResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ResponseActions.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ResponseMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ResponseMessageSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ResponseMessageType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ResponseObject.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ResponseObjectSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ResponseObjectsPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Rule.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RuleActions.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RuleCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RuleError.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RuleErrorCode.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RuleErrorCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RuleOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RuleOperationError.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RuleOperationErrorCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RulePredicateDateRange.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RulePredicateSizeRange.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RulePredicates.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\RuleProperty.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SafeXmlDocument.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SafeXmlFactory.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SafeXmlSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Schema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SearchFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SearchFolder.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SearchFolderParameters.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SearchFolderSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SearchFolderTraversal.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SendCancellationsMode.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SendInvitationsMode.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SendInvitationsOrCancellationsMode.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SendItemRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Sensitivity.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceError.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceErrorHandling.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceLocalException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceObject.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceObjectDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceObjectInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceObjectPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceObjectPropertyException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceObjectSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceObjectType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceRemoteException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceRequestBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceRequestException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceResponseCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceResponseException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceResult.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceValidationException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceVersionException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceXmlDeserializationException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ServiceXmlSerializationException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SetRuleOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SetUserOofSettingsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SimplePropertyBag.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SimpleServiceRequestBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SoapFaultDetails.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SortDirection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\StandardUser.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\StartTimeZonePropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\StreamingSubscription.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\StreamingSubscriptionConnection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\StringList.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\StringPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Strings.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SubscribeRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SubscribeResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SubscribeToPullNotificationsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SubscribeToPushNotificationsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SubscribeToStreamingNotificationsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SubscriptionBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SubscriptionErrorEventArgs.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Suggestion.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SuggestionQuality.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SuggestionsResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SuppressReadReceipt.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SyncFolderHierarchyRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SyncFolderHierarchyResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SyncFolderItemsRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SyncFolderItemsResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SyncFolderItemsScope.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\SyncResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Task.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TaskDelegationState.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TaskDelegationStatePropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TaskMode.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TaskSchema.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TaskStatus.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TasksFolder.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\Time.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeChange.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeChangeRecurrence.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeSpan.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeSpanPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeSpanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeSuggestion.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeWindow.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeZoneConversionException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeZoneDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeZonePeriod.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeZonePropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeZoneTransition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TimeZoneTransitionGroup.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TokenCredentials.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TraceFlags.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\TypedPropertyDefinition.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UnifiedMessaging.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UniqueBody.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UnsubscribeRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UpdateDelegateRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UpdateFolderRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UpdateFolderResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UpdateInboxRulesException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UpdateInboxRulesRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UpdateInboxRulesResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UpdateItemRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UpdateItemResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UpdateUserConfigurationRequest.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UserConfiguration.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UserConfigurationDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UserConfigurationDictionaryObjectType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UserConfigurationProperties.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UserId.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UserSettingError.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\UserSettingName.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\ViewBase.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WSSecurityBasedCredentials.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WaitHandle.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WebAsyncCallStateAnchor.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WebClientUrl.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WebClientUrlCollection.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WebCredentials.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WebExceptionStatus.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WebProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WellKnownFolderName.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WindowsLiveCredentials.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WorkingHours.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\WorkingPeriod.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\XMLNodeType.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\XmlAttributeNames.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\XmlDtdException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\XmlElementNames.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\XmlException.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\XmlNameTable.java" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\src\microsoft\exchange\webservices\data\XmlNamespace.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
+    </list>
+    <ignored path="EWSJavaAPI_1.2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="EWSJavaAPI_1.2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="58" column="49" selection-start="2109" selection-end="2109" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1326">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleServiceRequestBase.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SimpleServiceRequestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="28" selection-start="781" selection-end="782" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="3434">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="21" selection-start="1722" selection-end="1722" vertical-scroll-proportion="1.7257019" vertical-offset="0" max-vertical-offset="1309">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbsoluteDateTransition.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDateTransition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="43" selection-start="344" selection-end="379" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1955">
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#912#913#0" expanded="false" />
+                <element signature="e#964#965#0" expanded="false" />
+                <element signature="e#3028#3029#0" expanded="false" />
+                <element signature="e#3050#3051#0" expanded="false" />
+                <element signature="e#3188#3189#0" expanded="false" />
+                <element signature="e#3219#3220#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/build.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="EWJS" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="EWJS" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="compiler" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="EWJS" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="58" />
+    <option name="y" value="-4" />
+    <option name="width" value="1866" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EWSJavaAPI_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EWSJavaAPI_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EWSJavaAPI_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EWSJavaAPI_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EWSJavaAPI_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EWSJavaAPI_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EWSJavaAPI_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EWSJavaAPI_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EWSJavaAPI_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="ewsjavaapi_1.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\GitHub\EWSJavaAPI_1.2\src\com" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80aa0dc8-09ad-4961-925c-9fb334c387d3" name="Default" comment="" />
+      <created>1382422635253</created>
+      <updated>1382422635253</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="58" y="-4" width="1866" height="1088" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.48199153" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33050847" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22406182" sideWeight="0.6687898" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6687898" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48199153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294702" sideWeight="0.6687898" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.10320088" sideWeight="0.6687898" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32944915" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build.xml">
+      <targetFilters>
+        <filter targetName="init" isVisible="false" />
+        <filter targetName="compile" isVisible="true" />
+        <filter targetName="dist" isVisible="false" />
+        <filter targetName="clean" isVisible="true" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="4" selection-start="1434" selection-end="1434" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="721" selection-end="786" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="44" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="44" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/lib.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EWSJavaAPI_1.2.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SimpleServiceRequestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="28" selection-start="781" selection-end="782" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="3434">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="49" selection-start="2109" selection-end="2109" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDateTransition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="43" selection-start="344" selection-end="379" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1955">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#912#913#0" expanded="false" />
+            <element signature="e#964#965#0" expanded="false" />
+            <element signature="e#3028#3029#0" expanded="false" />
+            <element signature="e#3050#3051#0" expanded="false" />
+            <element signature="e#3188#3189#0" expanded="false" />
+            <element signature="e#3219#3220#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="21" selection-start="1722" selection-end="1722" vertical-scroll-proportion="1.7257019" vertical-offset="0" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>EWSJavaAPI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 14 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>EWSJavaAPI_1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.4" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>JDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
