@@ -8,13 +8,13 @@ package microsoft.exchange.webservices.data;
 
 import java.io.InputStream;
 
-import javax.xml.bind.ValidationEventHandler;
-import javax.xml.stream.XMLInputFactory;
-import javax.xml.stream.XMLStreamException;
-import javax.xml.stream.XMLStreamReader;
-import javax.xml.validation.Validator;
-import javax.xml.validation.ValidatorHandler;
-import  javax.xml.validation.Schema;
+import com.javax.xml.bind.ValidationEventHandler;
+import com.javax.xml.stream.XMLInputFactory;
+import com.javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamReader;
+import com.javax.xml.validation.Validator;
+import com.javax.xml.validation.ValidatorHandler;
+import  com.javax.xml.validation.Schema;
 
 /**
  * XmlSchema with protection against DTD parsing in read overloads

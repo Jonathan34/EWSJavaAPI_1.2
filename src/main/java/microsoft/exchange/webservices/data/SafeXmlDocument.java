@@ -13,11 +13,11 @@ import java.io.InputStream;
 import java.io.Reader;
 import java.io.StringReader;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.stream.XMLEventReader;
-import javax.xml.stream.XMLInputFactory;
-import javax.xml.stream.XMLStreamException;
-import javax.xml.stream.XMLStreamReader;
+import com.javax.xml.parsers.DocumentBuilder;
+import com.javax.xml.stream.XMLEventReader;
+import com.javax.xml.stream.XMLInputFactory;
+import com.javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamReader;
 
 import org.w3c.dom.DOMImplementation;
 import org.w3c.dom.Document;

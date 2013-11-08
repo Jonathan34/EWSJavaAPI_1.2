@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.net.URI;
 import java.util.List;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /**
  * The Interface FuncDelegateInterface.

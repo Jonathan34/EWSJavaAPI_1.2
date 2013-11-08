@@ -10,7 +10,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /**
  * A stream that traces everything it returns from its Read() call.

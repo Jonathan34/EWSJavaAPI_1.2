@@ -8,14 +8,14 @@ package microsoft.exchange.webservices.data;
 
 import java.util.Iterator;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.stream.XMLEventReader;
-import javax.xml.stream.events.Attribute;
-import javax.xml.stream.events.Namespace;
-import javax.xml.stream.events.StartElement;
-import javax.xml.stream.events.XMLEvent;
+import com.javax.xml.parsers.DocumentBuilder;
+import com.javax.xml.parsers.DocumentBuilderFactory;
+import com.javax.xml.parsers.ParserConfigurationException;
+import com.javax.xml.stream.XMLEventReader;
+import com.javax.xml.stream.events.Attribute;
+import com.javax.xml.stream.events.Namespace;
+import com.javax.xml.stream.events.StartElement;
+import com.javax.xml.stream.events.XMLEvent;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

@@ -13,7 +13,7 @@ import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /**
  * Enumeration of reasons that a hanging request may disconnect.

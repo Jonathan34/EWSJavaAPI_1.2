@@ -9,7 +9,7 @@ package microsoft.exchange.webservices.data;
 import java.util.ArrayList;
 import java.util.Collection;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /**
  * Represents the response to a GetServerTimeZones request.

@@ -19,9 +19,9 @@ import java.util.concurrent.Future;
 import java.util.zip.GZIPInputStream;
 import java.util.zip.InflaterInputStream;
 
-import javax.xml.stream.XMLStreamException;
-import javax.xml.ws.WebServiceException;
-import javax.xml.ws.http.HTTPException;
+import com.javax.xml.stream.XMLStreamException;
+import com.javax.xml.ws.WebServiceException;
+import com.javax.xml.ws.http.HTTPException;
 
 import org.apache.commons.httpclient.HttpException;
 

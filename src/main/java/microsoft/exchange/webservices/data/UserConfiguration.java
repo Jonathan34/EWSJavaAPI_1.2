@@ -8,7 +8,7 @@ package microsoft.exchange.webservices.data;
 
 import java.util.EnumSet;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /**
  * Represents an object that can be used to store user-defined configuration

@@ -6,7 +6,7 @@
  **************************************************************************/
 package microsoft.exchange.webservices.data;
 
-import javax.xml.stream.XMLStreamWriter;
+import com.javax.xml.stream.XMLStreamWriter;
 
 /**
  * The Interface CustomXmlSerializationInterface.

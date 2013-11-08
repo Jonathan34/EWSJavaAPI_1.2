@@ -9,7 +9,7 @@ package microsoft.exchange.webservices.data;
 import java.net.URI;
 import java.util.List;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /**
  *Represents a GetUserSettings request.

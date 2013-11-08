@@ -9,7 +9,7 @@ package microsoft.exchange.webservices.data;
 import java.util.Iterator;
 import java.util.List;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /***
  * Represents a collection of members of GroupMember type.

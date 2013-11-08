@@ -20,7 +20,7 @@ import java.util.Collection;
 import java.util.EnumSet;
 import java.util.List;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /**
  *Represents a binding to the Exchange Autodiscover Service.

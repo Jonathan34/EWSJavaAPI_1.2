@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jaxws-api-android:jaxws-api-android:2.2.11">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jaxws-api-android/jaxws-api-android/2.2.11/jaxws-api-android-2.2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/jaxws-api-android/jaxws-api-android/2.2.11/jaxws-api-android-2.2.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/jaxws-api-android/jaxws-api-android/2.2.11/jaxws-api-android-2.2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jsr173-android-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jsr173-android-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/stax2-api-android-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/stax-api-android-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

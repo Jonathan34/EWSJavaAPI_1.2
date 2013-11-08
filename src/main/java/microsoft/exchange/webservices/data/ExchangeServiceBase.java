@@ -38,8 +38,8 @@ import java.util.Vector;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import javax.xml.stream.XMLStreamException;
-import javax.xml.stream.XMLStreamWriter;
+import com.javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamWriter;
 
 import org.apache.commons.httpclient.Cookie;
 import org.apache.commons.httpclient.HttpConnectionManager;

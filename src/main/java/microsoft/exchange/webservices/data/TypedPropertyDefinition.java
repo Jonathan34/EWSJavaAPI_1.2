@@ -9,7 +9,7 @@ package microsoft.exchange.webservices.data;
 import java.text.ParseException;
 import java.util.EnumSet;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /***
  * Represents typed property definition.

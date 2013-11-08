@@ -8,7 +8,7 @@ package microsoft.exchange.webservices.data;
 
 import java.util.Date;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /**
  * Encapsulates information on the deleted occurrence of a recurring

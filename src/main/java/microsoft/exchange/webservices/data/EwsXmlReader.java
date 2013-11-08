@@ -14,16 +14,16 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.UnsupportedEncodingException;
 
-import javax.xml.namespace.QName;
-import javax.xml.stream.XMLEventReader;
-import javax.xml.stream.XMLInputFactory;
-import javax.xml.stream.XMLStreamConstants;
-import javax.xml.stream.XMLStreamException;
-import javax.xml.stream.events.Attribute;
-import javax.xml.stream.events.Characters;
-import javax.xml.stream.events.EndElement;
-import javax.xml.stream.events.StartElement;
-import javax.xml.stream.events.XMLEvent;
+import com.javax.xml.namespace.QName;
+import com.javax.xml.stream.XMLEventReader;
+import com.javax.xml.stream.XMLInputFactory;
+import com.javax.xml.stream.XMLStreamConstants;
+import com.javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.events.Attribute;
+import com.javax.xml.stream.events.Characters;
+import com.javax.xml.stream.events.EndElement;
+import com.javax.xml.stream.events.StartElement;
+import com.javax.xml.stream.events.XMLEvent;
 
 /***
  * Defines the EwsXmlReader class.

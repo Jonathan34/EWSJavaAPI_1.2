@@ -12,9 +12,9 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.Date;
 
-import javax.xml.stream.XMLOutputFactory;
-import javax.xml.stream.XMLStreamException;
-import javax.xml.stream.XMLStreamWriter;
+import com.javax.xml.stream.XMLOutputFactory;
+import com.javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamWriter;
 
 import org.w3c.dom.CDATASection;
 import org.w3c.dom.Comment;

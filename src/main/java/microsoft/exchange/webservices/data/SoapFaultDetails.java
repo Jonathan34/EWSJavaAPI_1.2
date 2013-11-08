@@ -9,7 +9,7 @@ package microsoft.exchange.webservices.data;
 import java.util.HashMap;
 import java.util.Map;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /**
  * Represents SoapFault details.

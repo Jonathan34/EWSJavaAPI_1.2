@@ -11,8 +11,8 @@ import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
 
-import javax.xml.stream.XMLStreamException;
-import javax.xml.stream.XMLStreamWriter;
+import com.javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamWriter;
 
 /**
  * Base class of Exchange credential types.

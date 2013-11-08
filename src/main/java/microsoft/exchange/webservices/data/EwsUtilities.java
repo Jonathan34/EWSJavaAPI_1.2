@@ -30,9 +30,9 @@ import java.util.TimeZone;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import javax.xml.stream.XMLOutputFactory;
-import javax.xml.stream.XMLStreamException;
-import javax.xml.stream.XMLStreamWriter;
+import com.javax.xml.stream.XMLOutputFactory;
+import com.javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamWriter;
 
 /**
  * EWS utilities.

@@ -6,7 +6,7 @@
  **************************************************************************/
 package microsoft.exchange.webservices.data;
 
-import javax.xml.stream.XMLStreamConstants;
+import com.javax.xml.stream.XMLStreamConstants;
 
 /**
  * The Class XMLNodeType.

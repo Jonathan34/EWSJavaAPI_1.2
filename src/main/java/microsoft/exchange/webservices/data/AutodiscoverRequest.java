@@ -17,7 +17,7 @@ import java.text.ParseException;
 import java.util.zip.GZIPInputStream;
 import java.util.zip.InflaterInputStream;
 
-import javax.xml.stream.XMLStreamException;
+import com.javax.xml.stream.XMLStreamException;
 
 /***
  * Represents the base class for all requested made to the Autodiscover service.
