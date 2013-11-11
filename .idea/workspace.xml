@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80aa0dc8-09ad-4961-925c-9fb334c387d3" name="Default" comment="">
-      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\Maven__stax_api_android_stax_api_android_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\commons_codec_1_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\jaxb_api_android_2_2_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\jaxws_api_android_2_2_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\jsr.xml" afterPath="" />
-      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\jsr173_android_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\jsr__2_.xml" afterPath="" />
-      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\src.xml" afterPath="" />
-      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\stax_android_1_2_0.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/EWSJavaAPI.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/EWSJavaAPI.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EWSJavaAPI_1.2.iml" afterPath="$PROJECT_DIR$/EWSJavaAPI_1.2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jaxp_api_android_jaxp_api_android_1_4_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxp_api_android_jaxp_api_android_1_4_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_android_stax_android_1_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_android_stax_android_1_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="80aa0dc8-09ad-4961-925c-9fb334c387d3" name="Default" comment="" />
     <ignored path="EWSJavaAPI_1.2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,13 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="147" column="46" selection-start="5215" selection-end="5215" vertical-scroll-proportion="0.0" vertical-offset="305" max-vertical-offset="2805">
-              <folding>
-                <marker date="1384184549026" expanded="true" signature="4047:4303" placeholder="..." />
-              </folding>
+            <state line="147" column="46" selection-start="5215" selection-end="5215" vertical-scroll-proportion="4.293542" vertical-offset="305" max-vertical-offset="2805">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,6 +93,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ExchangeService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExchangeService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4039" column="16" selection-start="137989" selection-end="137989" vertical-scroll-proportion="0.0" vertical-offset="67749" max-vertical-offset="75089">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="EwsUtilities.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -126,10 +113,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AutodiscoverRequest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AutodiscoverRequest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="360" column="16" selection-start="11130" selection-end="11130" vertical-scroll-proportion="0.46966732" vertical-offset="5795" max-vertical-offset="13481">
+            <state line="358" column="20" selection-start="11096" selection-end="11096" vertical-scroll-proportion="0.0" vertical-offset="5795" max-vertical-offset="13481">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -547,6 +534,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -611,7 +601,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20916115" sideWeight="0.6687898" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17825606" sideWeight="0.6687898" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43114406" sideWeight="0.72130245" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43114406" sideWeight="0.72130245" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294702" sideWeight="0.6687898" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -646,13 +636,6 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDayOfMonthTransition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="8" selection-start="1257" selection-end="1257" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1853">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteMonthTransition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="10" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2006">
@@ -741,15 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="46" selection-start="5215" selection-end="5215" vertical-scroll-proportion="0.0" vertical-offset="305" max-vertical-offset="2805">
-          <folding>
-            <marker date="1384184549026" expanded="true" signature="4047:4303" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="20" selection-start="1270" selection-end="1270" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="29325">
@@ -761,10 +735,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="360" column="16" selection-start="11130" selection-end="11130" vertical-scroll-proportion="0.46966732" vertical-offset="5795" max-vertical-offset="13481">
+        <state line="358" column="20" selection-start="11096" selection-end="11096" vertical-scroll-proportion="0.0" vertical-offset="5795" max-vertical-offset="13481">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExchangeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4039" column="16" selection-start="137989" selection-end="137989" vertical-scroll-proportion="0.0" vertical-offset="67749" max-vertical-offset="75089">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="46" selection-start="5215" selection-end="5215" vertical-scroll-proportion="4.293542" vertical-offset="305" max-vertical-offset="2805">
+          <folding />
         </state>
       </provider>
     </entry>
