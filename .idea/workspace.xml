@@ -2,290 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80aa0dc8-09ad-4961-925c-9fb334c387d3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxb_api_android_jaxb_api_android_2_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxp_api_android_jaxp_api_android_1_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxws_api_android_jaxws_api_android_2_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jsr173_android_jsr173_android_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax2_api_android_stax2_api_android_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_android_stax_android_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_api_android_stax_api_android_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jaxb_api_android_2_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jaxws_api_android_2_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jsr173_android_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/stax_android_1_2_0.xml" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\.idea\libraries\Maven__javax_xml_jsr173_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\libs\jsr173_1.0_src.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\AttributeBase.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\ConfigurationContextBase.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\EventFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\EventReaderFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\EventScanner.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\EventState.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\MXParser.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\MXParserFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\NamespaceBase.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\ReadOnlyNamespaceContextBase.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\ReaderDelegate.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\ReaderToWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\StaticAllocator.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\StreamReaderFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\SubReader.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\XMLEventAllocatorBase.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\XMLEventPlayer.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\XMLEventReaderBase.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\XMLEventWriterBase.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\XMLOutputFactoryBase.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\XMLStreamPlayer.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\XMLStreamRecorder.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\XMLWriterBase.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\BaseEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\CharactersEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\CommentEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\DTDEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\EndDocumentEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\EndElementEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\EntityDeclarationEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\EntityReferenceEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\NamedEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\NotationDeclarationEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\ProcessingInstructionEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\StartDocumentEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\events\StartElementEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\filters\NameFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\filters\TypeFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\reader\XmlChars.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\reader\XmlReader.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\samples\AllocEventParser.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\samples\EventParse.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\samples\EventWrite.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\samples\NoAllocEventParser.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\samples\Parse.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\util\ArrayIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\util\CircularQueue.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\util\ElementTypeNames.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\util\EmptyIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\util\NamespaceContextImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\util\Stack.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\util\Symbol.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\bea\xml\stream\util\SymbolTable.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTD.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDAny.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDAttlist.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDAttribute.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDCardinal.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDChoice.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDComment.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDContainer.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDDecl.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDElement.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDEmpty.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDEnumeration.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDExternalID.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDItem.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDMixed.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDName.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDNotation.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDNotationList.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDOutput.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDPCData.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDParseException.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDParser.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDProcessingInstruction.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDPublic.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDSequence.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\DTDSystem.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\EntityExpansion.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\Scanner.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\Token.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\TokenType.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\wutka\dtd\Tokenize.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\XMLConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\namespace\NamespaceContext.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\namespace\QName.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\namespace\package.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\package.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\EventFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\FactoryConfigurationError.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\FactoryFinder.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\Location.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\StreamFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\XMLEventFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\XMLEventReader.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\XMLEventWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\XMLInputFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\XMLOutputFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\XMLReporter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\XMLResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\XMLStreamConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\XMLStreamException.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\XMLStreamReader.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\XMLStreamWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\Attribute.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\Characters.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\Comment.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\DTD.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\EndDocument.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\EndElement.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\EntityDeclaration.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\EntityReference.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\Namespace.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\NotationDeclaration.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\ProcessingInstruction.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\StartDocument.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\StartElement.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\XMLEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\events\package.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\package.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\util\EventReaderDelegate.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\util\StreamReaderDelegate.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\util\XMLEventAllocator.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\util\XMLEventConsumer.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\com\xml\stream\util\package.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\BaseStaxTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\SimpleResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\evt\BaseEventTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\evt\TestEventFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\evt\TestEventReader.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\evt\TestEventTypes.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\evt\TestEventWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\evt\TestFilteredReader.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\evt\TestStartElem.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\BaseStreamTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\BlockingStream.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestAttributeRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestCDataRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestCommentRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestDoctypeDecl.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestElements.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestEncodingRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestEntityRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestEpilog.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestFilteredReader.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestGetSegmentedText.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestLinefeeds.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestMisc.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestNamespaces.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestProcInstrRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestRandomStream.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestStreaming.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestTextCoalescing.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\stream\TestXmlDecl.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\BaseVStreamTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestAttrRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestAttrTypes.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestDTDElemRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestEntityAttrRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestEnumAttrRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestExternalSubset.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestIdAttrRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestIncludes.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestInvalidDTD.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestNmTokenAttrRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestNotationAttrRead.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestParamEntities.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestStructuralValidation.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\vstream\TestSubsetCombination.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\wstream\BaseWriterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\wstream\TestOutputEncoding.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\wstream\TestRepairingWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\NotBackedUp\GitRepositories\EWSJavaAPI_1.2\src\org\codehaus\stax\test\wstream\TestSimpleWriter.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDateTransition.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDateTransition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDayOfMonthTransition.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDayOfMonthTransition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteMonthTransition.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteMonthTransition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AlternateIdBase.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AlternateIdBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverDnsClient.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverDnsClient.java" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\Maven__stax_api_android_stax_api_android_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\commons_codec_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\jaxb_api_android_2_2_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\jaxws_api_android_2_2_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\jsr.xml" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\jsr173_android_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\jsr__2_.xml" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\src.xml" afterPath="" />
+      <change type="DELETED" beforePath="X:\GitHub\EWSJavaAPI_1.2\.idea\libraries\stax_android_1_2_0.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverService.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ConversationIndexedItemView.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ConversationIndexedItemView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ConvertIdRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ConvertIdRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DayOfTheWeekCollection.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DayOfTheWeekCollection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DelegatePermissions.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DelegatePermissions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DeleteRuleOperation.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DeleteRuleOperation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DeletedOccurrenceInfo.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DeletedOccurrenceInfo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DictionaryEntryProperty.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DictionaryEntryProperty.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/EWSJavaAPI.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/EWSJavaAPI.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EWSJavaAPI_1.2.iml" afterPath="$PROJECT_DIR$/EWSJavaAPI_1.2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EndDateRecurrenceRange.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EndDateRecurrenceRange.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsServiceMultiResponseXmlReader.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsServiceMultiResponseXmlReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsServiceXmlWriter.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsServiceXmlWriter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsXmlReader.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsXmlReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExchangeCredentials.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExchangeCredentials.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExchangeServiceBase.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExchangeServiceBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodResponse.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExtendedProperty.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExtendedProperty.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExtendedPropertyCollection.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExtendedPropertyCollection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/FindItemResponse.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/FindItemResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetAttachmentRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetAttachmentRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetDomainSettingsRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetDomainSettingsRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetEventsRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetEventsRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetInboxRulesRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetInboxRulesRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetPasswordExpirationDateRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetPasswordExpirationDateRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetServerTimeZonesRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetServerTimeZonesRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetServerTimeZonesResponse.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetServerTimeZonesResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetStreamingEventsRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetStreamingEventsRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetUserConfigurationResponse.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetUserConfigurationResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetUserOofSettingsRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetUserOofSettingsRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetUserSettingsRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GetUserSettingsRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GroupMemberCollection.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/GroupMemberCollection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/Grouping.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/Grouping.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/HangingServiceRequestBase.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/HangingServiceRequestBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/HangingTraceStream.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/HangingTraceStream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ICustomXmlSerialization.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ICustomXmlSerialization.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ICustomXmlUpdateSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ICustomXmlUpdateSerializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/IFunctionDelegate.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/IFunctionDelegate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ImAddressEntry.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ImAddressEntry.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/InternetMessageHeader.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/InternetMessageHeader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ItemView.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ItemView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/LegacyAvailabilityTimeZoneTime.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/LegacyAvailabilityTimeZoneTime.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/Mailbox.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/Mailbox.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/MessageBody.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/MessageBody.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/MimeContent.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/MimeContent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/NotificationEvent.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/NotificationEvent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/NumberedRecurrenceRange.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/NumberedRecurrenceRange.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/OofReply.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/OofReply.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/OofSettings.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/OofSettings.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/OrderByCollection.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/OrderByCollection.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/OutlookConfigurationSettings.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/OutlookConfigurationSettings.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/PagedView.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/PagedView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/PhysicalAddressEntry.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/PhysicalAddressEntry.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/PropertyDefinition.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/PropertyDefinition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/PropertyDefinitionBase.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/PropertyDefinitionBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/PropertySet.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/PropertySet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/Recurrence.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/Recurrence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/RecurrenceRange.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/RecurrenceRange.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/RelativeDayOfMonthTransition.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/RelativeDayOfMonthTransition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/RulePredicateDateRange.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/RulePredicateDateRange.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/RulePredicateSizeRange.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/RulePredicateSizeRange.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SafeXmlDocument.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SafeXmlDocument.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SafeXmlFactory.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SafeXmlFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SafeXmlSchema.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SafeXmlSchema.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SearchFilter.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SearchFilter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ServiceRequestBase.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ServiceRequestBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ServiceResponse.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ServiceResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SoapFaultDetails.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SoapFaultDetails.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/StartTimeZonePropertyDefinition.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/StartTimeZonePropertyDefinition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/StringList.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/StringList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SubscribeRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SubscribeRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SubscribeResponse.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SubscribeResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SubscribeToPullNotificationsRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SubscribeToPullNotificationsRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SubscribeToPushNotificationsRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SubscribeToPushNotificationsRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/Suggestion.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/Suggestion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/TimeChangeRecurrence.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/TimeChangeRecurrence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/TimeWindow.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/TimeWindow.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/TimeZonePropertyDefinition.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/TimeZonePropertyDefinition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/TimeZoneTransition.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/TimeZoneTransition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/TypedPropertyDefinition.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/TypedPropertyDefinition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UniqueBody.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UniqueBody.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UnsubscribeRequest.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UnsubscribeRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UpdateItemResponse.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UpdateItemResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UserConfiguration.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UserConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UserConfigurationDictionary.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UserConfigurationDictionary.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UserId.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/UserId.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ViewBase.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ViewBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/WSSecurityBasedCredentials.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/WSSecurityBasedCredentials.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/XMLNodeType.java" afterPath="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/XMLNodeType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jaxp_api_android_jaxp_api_android_1_4_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxp_api_android_jaxp_api_android_1_4_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_android_stax_android_1_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_android_stax_android_1_2_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -360,89 +92,47 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="35" selection-start="3676" selection-end="3676" vertical-scroll-proportion="0.0" vertical-offset="1284" max-vertical-offset="2431">
-              <folding />
+            <state line="147" column="46" selection-start="5215" selection-end="5215" vertical-scroll-proportion="0.0" vertical-offset="305" max-vertical-offset="2805">
+              <folding>
+                <marker date="1384184549026" expanded="true" signature="4047:4303" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbsoluteMonthTransition.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteMonthTransition.java">
+      <file leaf-file-name="ExecuteDiagnosticMethodResponse.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodResponse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="10" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="2159">
-              <folding />
+            <state line="28" column="0" selection-start="1044" selection-end="1044" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2448">
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#4051#4052#0" expanded="false" />
+                <element signature="e#4076#4077#0" expanded="false" />
+                <element signature="e#4161#4162#0" expanded="false" />
+                <element signature="e#4187#4188#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AutodiscoverRequest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="EwsUtilities.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="20" selection-start="1270" selection-end="1270" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="29325">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutodiscoverRequest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="10" selection-start="716" selection-end="716" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="13600">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbsoluteDayOfMonthTransition.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDayOfMonthTransition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="19" selection-start="1047" selection-end="1047" vertical-scroll-proportion="-0.23151751" vertical-offset="595" max-vertical-offset="1853">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AlternateIdBase.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AlternateIdBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="7" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="2244">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServiceRequestBase.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ServiceRequestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="5" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="16813">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbsoluteDateTransition.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDateTransition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="2210">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AutodiscoverService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="10" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="38709">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AutodiscoverDnsClient.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverDnsClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="491" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="3281">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SafeXmlSchema.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SafeXmlSchema.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="26" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1241">
-              <folding />
+            <state line="360" column="16" selection-start="11130" selection-end="11130" vertical-scroll-proportion="0.46966732" vertical-offset="5795" max-vertical-offset="13481">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -471,10 +161,11 @@
         <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDateTransition.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverService.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverDnsClient.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteMonthTransition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDayOfMonthTransition.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java" />
+        <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java" />
       </list>
     </option>
   </component>
@@ -510,6 +201,10 @@
           <option name="myItemId" value="EWJS" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
       </PATH>
       <PATH>
         <PATH_ELEMENT>
@@ -528,10 +223,32 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="66" />
-    <option name="y" value="-8" />
-    <option name="width" value="1862" />
-    <option name="height" value="1096" />
+    <option name="x" value="58" />
+    <option name="y" value="-4" />
+    <option name="width" value="1866" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -564,14 +281,16 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="EWSJavaAPI_1.2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -608,25 +327,57 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EWSJavaAPI_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EWSJavaAPI_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="reference.settings.project.maven.repository.indices" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../beExProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_Tutorials/EWSJavaAPI_1.2-dex/build.xml" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="ewsjavaapi_1.2" />
@@ -821,30 +572,50 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="-8" width="1862" height="1096" extended-state="6" />
+    <frame x="58" y="-4" width="1866" height="1088" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47987288" sideWeight="0.6335541" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22033899" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43983403" sideWeight="0.27735645" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43114406" sideWeight="0.27869758" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944915" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22372697" sideWeight="0.6687898" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20916115" sideWeight="0.6687898" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972914" sideWeight="0.6687898" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43983403" sideWeight="0.72264355" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17825606" sideWeight="0.6687898" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43114406" sideWeight="0.72130245" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294702" sideWeight="0.6687898" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.10320088" sideWeight="0.6687898" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32883817" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -875,83 +646,9 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/lib.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDayOfMonthTransition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EWSJavaAPI_1.2.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="49" selection-start="2109" selection-end="2109" vertical-scroll-proportion="0.5381295" vertical-offset="612" max-vertical-offset="1326">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SimpleServiceRequestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="28" selection-start="781" selection-end="782" vertical-scroll-proportion="-0.12445095" vertical-offset="340" max-vertical-offset="3434" />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="749" column="6" selection-start="36867" selection-end="36867" vertical-scroll-proportion="0.33333334" vertical-offset="12566" max-vertical-offset="37961" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ConversationIndexedItemView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="641" selection-end="641" vertical-scroll-proportion="0.36381322" vertical-offset="0" max-vertical-offset="2108" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ServiceRequestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="5" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="16694">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AlternateIdBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2091">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDateTransition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="67" max-vertical-offset="2023">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="38199">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverDnsClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="491" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3196">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/SafeXmlSchema.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0" vertical-offset="642" max-vertical-offset="1156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="35" selection-start="3676" selection-end="3676" vertical-scroll-proportion="0.0" vertical-offset="1284" max-vertical-offset="2431">
+        <state line="43" column="8" selection-start="1257" selection-end="1257" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1853">
           <folding />
         </state>
       </provider>
@@ -963,17 +660,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AlternateMailbox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="10" selection-start="716" selection-end="716" vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="13447">
+        <state line="9" column="36" selection-start="410" selection-end="410" vertical-scroll-proportion="0.2631579" vertical-offset="3" max-vertical-offset="2346" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="237" column="38" selection-start="8302" selection-end="8302" vertical-scroll-proportion="0.0" vertical-offset="3164" max-vertical-offset="37961">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDayOfMonthTransition.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDateTransition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="19" selection-start="1047" selection-end="1047" vertical-scroll-proportion="-0.23151751" vertical-offset="595" max-vertical-offset="1853">
+        <state line="75" column="71" selection-start="2048" selection-end="2066" vertical-scroll-proportion="0.0" vertical-offset="1041" max-vertical-offset="2023">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ClientCertificateCredentials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/jre/lib/rt.jar!/javax/naming/NamingEnumeration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="159" selection-end="159" vertical-scroll-proportion="0.2367688" vertical-offset="0" max-vertical-offset="359" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DnsClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../_Tutorials/EWSJavaAPI_1.2-dex/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/WSSecurityBasedCredentials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="7" selection-start="4832" selection-end="4832" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="4522">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsXmlReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="21" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="20213">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/XMLNodeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="46" selection-start="387" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3621">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1044" selection-end="1044" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2448">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#4051#4052#0" expanded="false" />
+            <element signature="e#4076#4077#0" expanded="false" />
+            <element signature="e#4161#4162#0" expanded="false" />
+            <element signature="e#4187#4188#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="46" selection-start="5215" selection-end="5215" vertical-scroll-proportion="0.0" vertical-offset="305" max-vertical-offset="2805">
+          <folding>
+            <marker date="1384184549026" expanded="true" signature="4047:4303" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="20" selection-start="1270" selection-end="1270" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="29325">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="360" column="16" selection-start="11130" selection-end="11130" vertical-scroll-proportion="0.46966732" vertical-offset="5795" max-vertical-offset="13481">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1019,7 +810,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>Maven Android API 18 Platform</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

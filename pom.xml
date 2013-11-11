@@ -23,6 +23,12 @@
     </properties>
 
     <dependencies>
+        <!--<dependency>
+            <groupId>com.google.android</groupId>
+            <artifactId>android</artifactId>
+            <version>4.1.1.4</version>
+            <scope>compile</scope>
+        </dependency>-->
         <dependency>
             <groupId>commons-codec</groupId>
             <artifactId>commons-codec</artifactId>
@@ -71,14 +77,14 @@
             <scope>compile</scope>
             <optional>false</optional>
         </dependency>
-        <dependency>
+       <!--<dependency>
             <groupId>stax-api-android</groupId>
             <artifactId>stax-api-android</artifactId>
             <version>1.0</version>
             <type>jar</type>
             <scope>compile</scope>
             <optional>false</optional>
-        </dependency>
+        </dependency>-->
         <dependency>
             <groupId>jaxws-api-android</groupId>
             <artifactId>jaxws-api-android</artifactId>
@@ -131,6 +137,22 @@
                 <configuration>
                     <source>1.6</source>
                     <target>1.6</target>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-shade-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>shade</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <finalName>uber-${artifactId}-${version}</finalName>
                 </configuration>
             </plugin>
         </plugins>

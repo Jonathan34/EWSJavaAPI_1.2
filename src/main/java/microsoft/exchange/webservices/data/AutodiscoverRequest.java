@@ -324,14 +324,16 @@ abstract class AutodiscoverRequest {
 		if (!(location == null || location.isEmpty())) {
 			try {
 				URI redirectionUri = new URI(location);
-				if (redirectionUri.getScheme().toLowerCase().equals("http")
-						|| redirectionUri.getScheme().toLowerCase().equals(
-								"https")) {
-					AutodiscoverResponse response = this.createServiceResponse();
-					response.setErrorCode(AutodiscoverErrorCode.RedirectUrl);
-					response.setRedirectionUrl(redirectionUri);
-					return response;
-				}
+                if(redirectionUri.getScheme() != null) {
+                    if (redirectionUri.getScheme().toLowerCase().equals("http")
+                            || redirectionUri.getScheme().toLowerCase().equals(
+                                    "https")) {
+                        AutodiscoverResponse response = this.createServiceResponse();
+                        response.setErrorCode(AutodiscoverErrorCode.RedirectUrl);
+                        response.setRedirectionUrl(redirectionUri);
+                        return response;
+                    }
+                }
 
 				this.service
 						.traceMessage(

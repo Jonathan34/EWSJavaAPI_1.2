@@ -1,0 +1,5 @@
+USE THAT AFTER MAVEN PACKAGE TO USE jar-with-dep. the jar-with-dep must be used in the other project
+
+mvn assembly:assembly -DdescriptorId=jar-with-dependencies
+
+gradle assembleDebug --stacktrace

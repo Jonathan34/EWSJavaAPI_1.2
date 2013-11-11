@@ -14,6 +14,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.PrintWriter;
+import java.io.StringWriter;
 import java.lang.reflect.Field;
 import java.lang.reflect.Type;
 import java.net.URISyntaxException;
@@ -136,7 +137,7 @@ class EwsUtilities {
      *Copies source stream to target.
      * 
      *@param source The source. 
-     *@param name target The target.
+     *@param target The target.
      **/ 
     protected static void copyStream(ByteArrayOutputStream source, ByteArrayOutputStream target)throws Exception
     {
@@ -528,22 +529,43 @@ class EwsUtilities {
 	 *            If true, include build version attribute.
 	 */
     private static void writeTraceStartElement(
-    	XMLStreamWriter writer,
-        String traceTag,
-        boolean includeVersion) throws XMLStreamException {
+            XMLStreamWriter writer,
+            String traceTag,
+            boolean includeVersion) throws XMLStreamException {
         writer.writeStartElement("Trace");
         writer.writeAttribute("Tag", traceTag);
         writer.writeAttribute("Tid", Thread.currentThread().getId()+"");
         Date d = new Date();
-		DateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss'Z'");
-		df.setTimeZone(TimeZone.getTimeZone("UTC"));
-		String formattedString = df.format(d);
+        DateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss'Z'");
+        df.setTimeZone(TimeZone.getTimeZone("UTC"));
+        String formattedString = df.format(d);
         writer.writeAttribute("Time", formattedString);
 
         if (includeVersion) {
             writer.writeAttribute("Version", EwsUtilities.getBuildVersion());
         }
     }
+
+    /*private static void writeTraceStartElement2(
+            XmlSerializer writer,
+            String traceTag,
+            boolean includeVersion) throws XMLStreamException {
+        writer.startDocument("UTF-8", true);
+        writer.startTag("", "Trace");
+        writer.attribute("", "Tag", traceTag);
+        writer.wwriteStartElement("Trace");
+        writer.attribute("", "Tag", traceTag);
+        writer.attribute("", "Tid", Thread.currentThread().getId()+"");
+        Date d = new Date();
+        DateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss'Z'");
+        df.setTimeZone(TimeZone.getTimeZone("UTC"));
+        String formattedString = df.format(d);
+        writer.writeAttribute("Time", formattedString);
+
+        if (includeVersion) {
+            writer.writeAttribute("Version", EwsUtilities.getBuildVersion());
+        }
+    }*/
 	
 	/**
 	 * *.
@@ -563,7 +585,7 @@ class EwsUtilities {
 		ByteArrayOutputStream outStream = new ByteArrayOutputStream();
 		XMLOutputFactory factory = XMLOutputFactory.newInstance();
 		XMLStreamWriter writer = factory.createXMLStreamWriter(outStream);
-		EwsUtilities.writeTraceStartElement(writer, entryKind,false);
+		EwsUtilities.writeTraceStartElement(writer, entryKind, false);
 		writer.writeCharacters(System.getProperty("line.separator"));
 		writer.writeCharacters(logEntry);
 		writer.writeCharacters(System.getProperty("line.separator"));
@@ -571,6 +593,19 @@ class EwsUtilities {
 		writer.writeCharacters(System.getProperty("line.separator"));
 		writer.flush();
 		writer.close();
+      /*  XmlSerializer serializer = Xml.newSerializer();
+        StringWriter writer = new StringWriter();
+        try {
+            serializer.setOutput(writer);
+            EwsUtilities.writeTraceStartElement2(writer, entryKind, false);
+
+            serializer.startDocument("UTF-8", true);
+            serializer.startTag("", "messages");
+        }
+        catch () {
+
+        }*/
+
 		outStream.flush();
 		String formattedLogMessage = outStream.toString();
 		formattedLogMessage = formattedLogMessage.replaceAll("&apos;", "'");
@@ -1379,7 +1414,7 @@ class EwsUtilities {
 	/**
 	 * Validates string parameter to be 
 	 * non-empty string (null value not allowed).
-	 * @param paramThe string parameter.	
+	 * @param param The string parameter.
 	 * @param paramName Name of the parameter.	 
 	 * @throws ArgumentNullException 
 	 * @throws ArgumentException 
@@ -1670,8 +1705,6 @@ class EwsUtilities {
 	 * Determines whether every element in the collection 
 	 * matches the conditions defined by the specified predicate.
 	 *
-	 * @param typeparam T 
-	 *				Entry type.
 	 * @param collection
 	 * 				The collection.
 	 * @param predicate

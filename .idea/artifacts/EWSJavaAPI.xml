@@ -1,6 +1,26 @@
 <component name="ArtifactManager">
   <artifact type="jar" build-on-make="true" name="EWSJavaAPI">
     <output-path>$PROJECT_DIR$/out/</output-path>
-    <root id="archive" name="EWSJavaAPI.jar" />
+    <root id="archive" name="EWSJavaAPI.jar">
+      <element id="library" level="project" name="Maven: jaxp-api-android:jaxp-api-android:1.4.2" />
+      <element id="library" level="project" name="Maven: stax-android:stax-android:1.2.0" />
+      <element id="library" level="project" name="Maven: jaxws-api-android:jaxws-api-android:2.2.11" />
+      <element id="library" level="project" name="Maven: stax-api-android:stax-api-android:1.0" />
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.8" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.0.1" />
+      <element id="library" level="project" name="Maven: jcifs:jcifs:1.3.17" />
+      <element id="library" level="project" name="Maven: stax2-api-android:stax2-api-android:3.1.1" />
+      <element id="library" level="project" name="Maven: jaxb-api-android:jaxb-api-android:2.2.11" />
+      <element id="library" level="project" name="Maven: xerces:xmlParserAPIs:2.6.2" />
+      <element id="library" level="project" name="Maven: org.json:json:20080701" />
+      <element id="library" level="project" name="Maven: commons-httpclient:commons-httpclient:3.1" />
+      <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.4" />
+      <element id="library" level="project" name="Maven: xpp3:xpp3:1.1.4c" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.0.1" />
+      <element id="library" level="project" name="Maven: jsr173-android:jsr173-android:1.0" />
+      <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.3" />
+      <element id="module-output" name="EWSJavaAPI_1.2" />
+      <element id="library" level="project" name="Maven: org.khronos:opengl-api:gl1.1-android-2.1_r1" />
+    </root>
   </artifact>
 </component>
