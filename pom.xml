@@ -23,12 +23,6 @@
     </properties>
 
     <dependencies>
-        <!--<dependency>
-            <groupId>com.google.android</groupId>
-            <artifactId>android</artifactId>
-            <version>4.1.1.4</version>
-            <scope>compile</scope>
-        </dependency>-->
         <dependency>
             <groupId>commons-codec</groupId>
             <artifactId>commons-codec</artifactId>
@@ -117,18 +111,19 @@
             <scope>compile</scope>
             <optional>false</optional>
         </dependency>
-
-        <!--<dependency>
-            <groupId>javax.xml</groupId>
-            <artifactId>jsr173</artifactId>
-            <version>1.0</version>
-            <type>jar</type>
-            <scope>compile</scope>
-            <optional>false</optional>
-        </dependency>-->
     </dependencies>
 
     <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <include>Strings.properties</include>
+                </includes>
+                <!-- relative to target/classes i.e. ${project.build.outputDirectory} -->
+                <targetPath>microsoft/exchange/webservices/data/</targetPath>
+            </resource>
+        </resources>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>

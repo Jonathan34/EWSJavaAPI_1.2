@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80aa0dc8-09ad-4961-925c-9fb334c387d3" name="Default" comment="" />
+    <list default="true" id="80aa0dc8-09ad-4961-925c-9fb334c387d3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/EWSJavaAPI.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/EWSJavaAPI.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="EWSJavaAPI_1.2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,53 +76,9 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="147" column="46" selection-start="5215" selection-end="5215" vertical-scroll-proportion="4.293542" vertical-offset="305" max-vertical-offset="2805">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExecuteDiagnosticMethodResponse.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodResponse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="1044" selection-end="1044" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2448">
+            <state line="120" column="36" selection-start="4283" selection-end="4283" vertical-scroll-proportion="0.51167315" vertical-offset="264" max-vertical-offset="1207">
               <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="e#4051#4052#0" expanded="false" />
-                <element signature="e#4076#4077#0" expanded="false" />
-                <element signature="e#4161#4162#0" expanded="false" />
-                <element signature="e#4187#4188#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExchangeService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExchangeService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4039" column="16" selection-start="137989" selection-end="137989" vertical-scroll-proportion="0.0" vertical-offset="67749" max-vertical-offset="75089">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EwsUtilities.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="20" selection-start="1270" selection-end="1270" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="29325">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AutodiscoverRequest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="358" column="20" selection-start="11096" selection-end="11096" vertical-scroll-proportion="0.0" vertical-offset="5795" max-vertical-offset="13481">
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -150,9 +110,9 @@
         <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverDnsClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteMonthTransition.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDayOfMonthTransition.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java" />
         <option value="$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -173,10 +133,6 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="EWJS" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -321,6 +277,10 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -343,20 +303,16 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -364,7 +320,7 @@
     <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_Tutorials/EWSJavaAPI_1.2-dex/build.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_Tutorials/EWSJavaAPI_1.2-dex/Strings.properties" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="ewsjavaapi_1.2" />
@@ -514,6 +470,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
@@ -590,26 +547,32 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47987288" sideWeight="0.6335541" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22033899" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23890063" sideWeight="0.6335541" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43114406" sideWeight="0.27869758" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42917547" sideWeight="0.27924946" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944915" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20916115" sideWeight="0.6687898" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10154525" sideWeight="0.6687898" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17825606" sideWeight="0.6687898" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43114406" sideWeight="0.72130245" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1539735" sideWeight="0.6687898" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42917547" sideWeight="0.7207506" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294702" sideWeight="0.6687898" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.10320088" sideWeight="0.6687898" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22033899" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -636,11 +599,58 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteMonthTransition.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="10" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2006">
+        <state line="120" column="36" selection-start="4283" selection-end="4283" vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="1207">
+          <folding>
+            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="18" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0" vertical-offset="145" max-vertical-offset="2550">
+          <folding>
+            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="46" selection-start="5215" selection-end="5215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2805">
+          <folding>
+            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1044" selection-end="1044" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="2601" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExchangeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4039" column="16" selection-start="137989" selection-end="137989" vertical-scroll-proportion="0.0" vertical-offset="68663" max-vertical-offset="76194" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="20" selection-start="1270" selection-end="1270" vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="29801" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="358" column="20" selection-start="11096" selection-end="11096" vertical-scroll-proportion="0.0" vertical-offset="6086" max-vertical-offset="13634">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteMonthTransition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="10" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2006" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AlternateMailbox.java">
@@ -650,23 +660,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="237" column="38" selection-start="8302" selection-end="8302" vertical-scroll-proportion="0.0" vertical-offset="3164" max-vertical-offset="37961">
-          <folding />
-        </state>
+        <state line="237" column="38" selection-start="8302" selection-end="8302" vertical-scroll-proportion="0.0" vertical-offset="3164" max-vertical-offset="37961" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AbsoluteDateTransition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="71" selection-start="2048" selection-end="2066" vertical-scroll-proportion="0.0" vertical-offset="1041" max-vertical-offset="2023">
-          <folding />
-        </state>
+        <state line="75" column="71" selection-start="2048" selection-end="2066" vertical-scroll-proportion="0.0" vertical-offset="1041" max-vertical-offset="2023" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ClientCertificateCredentials.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
-          <folding />
-        </state>
+        <state line="19" column="0" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952" />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/jre/lib/rt.jar!/javax/naming/NamingEnumeration.class">
@@ -676,9 +680,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/DnsClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="28" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1462">
-          <folding />
-        </state>
+        <state line="13" column="28" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../_Tutorials/EWSJavaAPI_1.2-dex/build.xml">
@@ -688,71 +690,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/WSSecurityBasedCredentials.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="7" selection-start="4832" selection-end="4832" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="4522">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="147" column="7" selection-start="4832" selection-end="4832" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="4522" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsXmlReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="21" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="20213">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="37" column="21" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="20213" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/XMLNodeType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="46" selection-start="387" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3621">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="1044" selection-end="1044" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2448">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#4051#4052#0" expanded="false" />
-            <element signature="e#4076#4077#0" expanded="false" />
-            <element signature="e#4161#4162#0" expanded="false" />
-            <element signature="e#4187#4188#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="8" column="46" selection-start="387" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3621" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/EwsUtilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="20" selection-start="1270" selection-end="1270" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="29325">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="40" column="20" selection-start="1270" selection-end="1270" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="29325" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/AutodiscoverRequest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="358" column="20" selection-start="11096" selection-end="11096" vertical-scroll-proportion="0.0" vertical-offset="5795" max-vertical-offset="13481">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExchangeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4039" column="16" selection-start="137989" selection-end="137989" vertical-scroll-proportion="0.0" vertical-offset="67749" max-vertical-offset="75089">
-          <folding />
-        </state>
+        <state line="4039" column="16" selection-start="137989" selection-end="137989" vertical-scroll-proportion="0.0" vertical-offset="67749" max-vertical-offset="75089" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/microsoft/exchange/webservices/data/ExecuteDiagnosticMethodResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1044" selection-end="1044" vertical-scroll-proportion="-0.51602024" vertical-offset="476" max-vertical-offset="2227" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="46" selection-start="5215" selection-end="5215" vertical-scroll-proportion="4.293542" vertical-offset="305" max-vertical-offset="2805">
-          <folding />
+        <state line="120" column="36" selection-start="4283" selection-end="4283" vertical-scroll-proportion="0.51167315" vertical-offset="264" max-vertical-offset="1207">
+          <folding>
+            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -815,6 +793,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
